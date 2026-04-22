@@ -1,4 +1,4 @@
-# Praicas-DevOps-2026
+# Praticas-DevOps-2026
 
 ##Autor
 - **Nome:** Gabriel Nascimento Santos Reis
