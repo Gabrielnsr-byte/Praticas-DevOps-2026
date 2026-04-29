@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # Define o arquivo de log de entrada
 LOG_FILE="apache.log"
