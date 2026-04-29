@@ -11,3 +11,6 @@
 ## Estrutura de Repositório
 
 ## Padrão dos Scripts 
+
+
+teste de commit
