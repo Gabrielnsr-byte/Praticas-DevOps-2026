@@ -1,0 +1,9 @@
+O cenário da ScreenMatch descreve uma demanda por conteúdo majoritariamente estático (HTML, CSS, imagens e vídeos) com a expectativa de alto volume de tráfego logo no primeiro dia.  
+
+    Nginx: Foi projetado com uma arquitetura baseada em eventos (event-driven) e assíncrona. Isso significa que uma única thread de trabalho (worker) pode gerenciar milhares de conexões simultâneas de forma muito eficiente. Seu uso de memória é previsível e extremamente baixo ao servir arquivos estáticos pesados, como vídeos.  
+
+    Apache: Tradicionalmente utiliza uma arquitetura orientada a processos ou threads (dependendo do módulo MPM utilizado, como Prefork ou Worker). Em picos de tráfego intensos servindo conteúdo estático, o Apache pode consumir significativamente mais memória RAM em comparação ao Nginx, pois tende a abrir um novo processo ou thread para cada conexão requisitada.  
+
+Portanto, o Nginx é a solução padrão da indústria para atuar como servidor estático de alto desempenho sob forte estresse.
+
+
