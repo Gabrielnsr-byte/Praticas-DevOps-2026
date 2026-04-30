@@ -1,7 +1,7 @@
 # Praticas-DevOps-2026
 
 ##Autor
-- **Nome:** Gabriel Nascimento Santos Reis | Mateus Pereira
+- **Nome:** Gabriel Nascimento Santos Reis | Mateus Pereira | Matheus santos
 - **Disciplina:** Lab de Prog para Operação de infra de redes de Comp
 - **Professor:** Eder Pereira dos Santos 
 
